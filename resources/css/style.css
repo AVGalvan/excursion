@@ -33,3 +33,14 @@ p {
   font-size: 21px;
   color: gray;
 }
+
+.coming-soon {
+  margin-top: 25px;
+}
+.footer .copyright {
+  text-align: right;
+}
+
+.copyright p {
+  font-size: 14px;
+}
