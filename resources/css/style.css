@@ -20,3 +20,8 @@ a {
   font-size: 16px;
   margin: 0 auto;
 }
+
+.phone {
+  text-align: center;
+  margin-top: 25px;
+}
